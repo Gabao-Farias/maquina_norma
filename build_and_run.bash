@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configs
-  file_name="somador"
+  file_name="maquina"
 # No need to change these below
   extension_out="nathan"
   extension_in="cpp"
