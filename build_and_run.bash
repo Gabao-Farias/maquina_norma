@@ -3,7 +3,7 @@
 # Configs
   file_name="maquina"
 # No need to change these below
-  extension_out="nathan"
+  extension_out="exe"
   extension_in="cpp"
   path="${file_name}"
   output_file_path="${path}/${file_name}.${extension_out}"
