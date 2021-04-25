@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxMcAiWzQOeunKKcbxurFV5YaAW8_7q7ShDLRZsGsagHZt4yg_HK7L-bXAl19Rryr694&usqp=CAU" /
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxMcAiWzQOeunKKcbxurFV5YaAW8_7q7ShDLRZsGsagHZt4yg_HK7L-bXAl19Rryr694&usqp=CAU" />
    <h1>Máquina NORMA (Simulador)</h1>
 </div>
 
