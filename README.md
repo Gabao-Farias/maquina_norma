@@ -21,7 +21,7 @@ Saber programar em `c++`
 2. Somar 1 a algum valor;
 3. Subtrair 1 de algum valor;
 
-⚠️ O que deve evitar fazer:
+⚠️ O que deve evitar
 
 1. Uso de ponteiros
 
